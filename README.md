@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/venkateshbaddela/testimonials-grid-component/edit/master/README.md)
+![](screenshot/schreenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/venkateshbaddela/testimonials-grid-component]
+- Live Site URL: [https://venkateshbaddela.github.io/testimonials-grid-component/]
 
 ### Built with
 
